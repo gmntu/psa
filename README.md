@@ -2,10 +2,10 @@
 
 This work presents a pressure sensor array module that is:
 * Low-cost (around 55 USD)
-* Customizable (easy-to-build, vary the size and number of sensing area)
-* Wireless (Suitable for portable application and simplify integration)
+* Customizable (easy-to-build with varying size and number of sensing area)
+* Wireless (suitable for portable application and simplify integration)
 
-## Videos
+## Demonstrations
 
 ### Pressure distribution map
 
