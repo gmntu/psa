@@ -24,7 +24,7 @@ Realtime generation of pressure distribution map with different objects
 
 <details>
 <summary><b>Object pose estimation</b></summary>
-Demonstration using 8 objects with 4 different shapes (arc, triangle, rectangle and semicircle) and 2 different sizes (large and small)
+8 objects with 4 different shapes (arc, triangle, rectangle and semicircle) and 2 different sizes (large and small)
 <br>
 <br>  
 <li>Testing on sensor array with <b>32 by 32</b> sensing elements</li>
@@ -42,7 +42,7 @@ Demonstration using 8 objects with 4 different shapes (arc, triangle, rectangle 
 <iframe width="640" height="360" src="https://www.youtube.com/embed/-hUVe4ekWHM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <br>
 <br>  
-<li>Hand grasping pressure distribution on sensorized cylindrical object</li>
+<li>Hand grasping pressure distribution (sensorized cylindrical object)</li>
 <iframe width="640" height="360" src="https://www.youtube.com/embed/vlyW6yW9tQo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </details>
 
