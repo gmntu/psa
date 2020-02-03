@@ -11,11 +11,19 @@ This work presents a pressure sensor array module that is:
 <summary>Pressure distribution map</summary>
 <br>
 
-Pressure sensor array with 32 by 32 sensing elements
+Pressure sensor array with 32 by 32 sensing elements 
+
+Left: Shows the original resolution (32 by 32 sensing elements)
+Right: Shows the pressure map upsampled four times (128 by 128)
+
 <iframe width="640" height="360" src="https://www.youtube.com/embed/vcOgkFjeVOU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <br>
 
 Pressure sensor array with 16 by 16 sensing elements
+
+Left: Shows the original resolution (16 by 16 sensing elements)
+Right: Shows the pressure map upsampled four times (64 by 64)
+
 <iframe width="640" height="360" src="https://www.youtube.com/embed/MtDBYo3cDaU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </details>
 
