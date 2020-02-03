@@ -11,9 +11,9 @@ This work presents a pressure sensor array module that is:
 <summary><b>Pressure distribution map</b></summary>
 <br>
 
-<p>Pressure sensor array with 32 by 32 sensing elements</p>
-<p>Left image: Original resolution (32 by 32 sensing elements)</p>
-<p>Right image: Pressure map upsampled four times (128 by 128)</p>
+<li>Pressure sensor array with 32 by 32 sensing elements</li>
+<li>Left image: Original resolution (32 by 32)</li>
+<li>Right image: Pressure map upsampled four times (128 by 128)</li>
 
 <iframe width="640" height="360" src="https://www.youtube.com/embed/vcOgkFjeVOU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <br>
