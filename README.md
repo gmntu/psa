@@ -16,7 +16,7 @@ Pressure sensor array with 32 by 32 sensing elements
 <li>Right image: Upsampled four times (128 by 128)</li>
 <iframe width="640" height="360" src="https://www.youtube.com/embed/vcOgkFjeVOU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-<br>
+<p>&nbsp;</p>
 
 Pressure sensor array with 16 by 16 sensing elements
 <li>Left image: Original resolution (16 by 16)</li>
