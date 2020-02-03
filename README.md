@@ -27,23 +27,22 @@ Realtime generation of pressure distribution map with different objects
 Demonstration of the object pose estimation using 8 objects with 4 different shapes (arc, triangle, rectangle and semicircle) and 2 different sizes (large and small)
 <br>
 <br>  
-<li>Pressure sensor array with 32 by 32 sensing elements</li>
+<li>Testing on sensor array with 32 by 32 sensing elements</li>
 <iframe width="640" height="360" src="https://www.youtube.com/embed/0KO4MP07DSc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <br>
 <br>  
-<li>Pressure sensor array with 16 by 16 sensing elements</li>
+<li>Testing on sensor array with 16 by 16 sensing elements</li>
 <iframe width="640" height="360" src="https://www.youtube.com/embed/7sSoLkiWePw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </details>
 
 <details>
 <summary><b>Grasp classification</b></summary>
 <br>
-<br>  
-<li>Grasp classification on sensorized cylinderical / cuboid object</li>
+<li>Grasp classification on sensorized cylindrical / cuboid object</li>
 <iframe width="640" height="360" src="https://www.youtube.com/embed/-hUVe4ekWHM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <br>
 <br>  
-<li>Hand grasping pressure distribution on sensorized cylinderical object</li>
+<li>Hand grasping pressure distribution on sensorized cylindrical object</li>
 <iframe width="640" height="360" src="https://www.youtube.com/embed/vlyW6yW9tQo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </details>
 
