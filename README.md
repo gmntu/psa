@@ -11,6 +11,7 @@ This work presents a pressure sensor array module that is:
 <summary><b>Pressure distribution map</b></summary>
 Generation of realtime pressure distribution map with different objects
 <br>
+<br>
 <li>Left image: Original resolution (32 by 32)</li>
 <li>Right image: Upsampled four times (128 by 128)</li>
 <iframe width="640" height="360" src="https://www.youtube.com/embed/vcOgkFjeVOU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
