@@ -8,7 +8,7 @@ This work presents a pressure sensor array module that is:
 ## Videos
 
 <details>
-<summary><h2>Pressure distribution map</h1></summary>
+<summary>Pressure distribution map</summary>
 <br>
 
 <p>
