@@ -15,6 +15,7 @@ Pressure sensor array with 32 by 32 sensing elements
 <li>Left image: Original resolution (32 by 32)</li>
 <li>Right image: Upsampled four times (128 by 128)</li>
 <iframe width="640" height="360" src="https://www.youtube.com/embed/vcOgkFjeVOU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 <br>
 
 Pressure sensor array with 16 by 16 sensing elements
@@ -28,16 +29,18 @@ Pressure sensor array with 16 by 16 sensing elements
 <br>
 
 Pressure sensor array with 32 by 32 sensing elements
+<li>Test with 8 objects with 4 different shapes (arc, triangle, rectangle and semicircle) and 2 different sizes (large and small)</li>
 <iframe width="640" height="360" src="https://www.youtube.com/embed/0KO4MP07DSc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <br>
 
 Pressure sensor array with 16 by 16 sensing elements
+<li>Test with 8 objects with 4 different shapes (arc, triangle, rectangle and semicircle) and 2 different sizes (large and small)</li>
 <iframe width="640" height="360" src="https://www.youtube.com/embed/7sSoLkiWePw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 </details>
 
 <details>
-<summary>Grasp classification</summary>
+<summary><b>Grasp classification</b></summary>
 <br>
 
 Grasp classification on sensorized cylinderical / cuboid object
