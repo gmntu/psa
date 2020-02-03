@@ -8,15 +8,18 @@ This work presents a pressure sensor array module that is:
 ## Videos
 
 <details>
-<summary>Pressure distribution map</summary>
+<summary><h2>Pressure distribution map</h1></summary>
 <br>
 
+<p>
 Pressure sensor array with 32 by 32 sensing elements
 <iframe width="640" height="360" src="https://www.youtube.com/embed/vcOgkFjeVOU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</p>
 
-
+<p>
 Pressure sensor array with 16 by 16 sensing elements
 <iframe width="640" height="360" src="https://www.youtube.com/embed/MtDBYo3cDaU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</p>
 
 </details>
 
