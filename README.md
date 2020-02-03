@@ -9,7 +9,11 @@ This work presents a pressure sensor array module that is:
 
 ### Pressure distribution map
 
-<iframe width="1280" height="720" src="https://www.youtube.com/embed/vcOgkFjeVOU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+Pressure sensor array with 32 by 32 sensing elements
+<iframe width="640" height="360" src="https://www.youtube.com/embed/vcOgkFjeVOU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+Pressure sensor array with 16 by 16 sensing elements
+<iframe width="640" height="360" src="https://www.youtube.com/embed/vcOgkFjeVOU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### Object pose estimation
 
