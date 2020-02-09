@@ -9,6 +9,12 @@ This work presents a pressure sensor array module that is:
 
 ## Videos
 
+Summary video:
+
+<iframe width="640" height="360" src="https://www.youtube.com/embed/aW_NSEHc3rI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+Click on the lists below for more details:
+
 <details>
 <summary><b>Pressure distribution map</b></summary>
 Realtime generation of pressure distribution map with different objects
